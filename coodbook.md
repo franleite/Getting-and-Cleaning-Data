@@ -88,7 +88,8 @@ This is the cood book from "tidy.txt"
 * fBodyBodyGyroJerkMagMean
 * fBodyBodyGyroJerkMagStd
 * fBodyBodyGyroJerkMagMeanFreq
-##Activity Labels
+
+## Activity Labels
 * WALKING: subject was walking during the test
 * WALKING_UPSTAIRS: subject was walking up a staircase during the test
 * WALKING_DOWNSTAIRS: subject was walking down a staircase during the test
