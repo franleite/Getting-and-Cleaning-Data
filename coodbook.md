@@ -1,12 +1,12 @@
-Coodbook
+#Coodbook
 
 This is the cood book from tidy.txt
 
-Fieds
+#Fieds
 
-*Identifiers
-..*subject: ID from subject
-..*activity: activity type done by subject andmeasured
+##Identifiers
+* subject: ID from subject
+* activity: activity type done by subject andmeasured
 
 * Measures
 ..*tBodyAccMeanX
